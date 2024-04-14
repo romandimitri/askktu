@@ -26,7 +26,7 @@ export async function ChatHistory({ userId }: ChatHistoryProps) {
           )}
         >
           <IconPlus className="-translate-x-2 stroke-2" />
-          Puthiya Chat
+          Puthiya Ch
         </Link>
       </div>
       <React.Suspense
